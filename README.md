@@ -8,4 +8,4 @@ https://www.level-up.one/devops-pdf-book
 
 ## for demo purpose only
 
-You can fork the original repo to know more on this awesome project being done by master Lee
+add java home to jenkins, installed maven
