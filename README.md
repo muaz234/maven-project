@@ -8,4 +8,4 @@ https://www.level-up.one/devops-pdf-book
 
 ## for demo purpose only
 
-add java home to jenkins, installed maven
+add java home to jenkins, changed maven installation version and update path
