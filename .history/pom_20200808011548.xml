@@ -1,0 +1,11 @@
+
+
+
+
+
+<scm>
+    <connection>scm:git:https://github.com/muaz234/maven-project.git</connection>
+    <developerConnection>scm:git:https://github.com/muaz234/maven-project.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/muaz234/maven-project</url>
+  </scm>
